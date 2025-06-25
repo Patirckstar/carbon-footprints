@@ -1,0 +1,53 @@
+		
+用户名
+root
+新密码	
+C2:2HUEwc4_kk6-
+确认密码	
+C2:2HUEwc4_kk6-
+
+sudo /etc/init.d/bt default
+
+外网面板地址: http://134.175.59.187:8888/tencentcloud
+内网面板地址: http://10.1.12.16:8888/tencentcloud
+username: 237c94ec
+password: 9b72e5109500
+
+http://carbon-footprint.asia
+数据库root密码
+ifSwC9ItchUEeyt8
+数据库名称
+db
+数据库用户
+wordpress
+数据库密码：U2mKW9266NfTSiz0
+
+请填写以下信息：无需担心填错，您以后可以随时更改这些设置。
+
+
+站点标题	
+first
+用户名	
+carbon-footprint
+用户名只能含有字母、数字、空格、下划线、连字符、句号和「@」符号。
+
+密码	
+qn2%t2ip8N5Kb5rr3c
+强
+ 隐藏
+重要： 您将需要此密码来登录，请将其保存在安全的位置。
+
+您的邮箱	
+15289529102@163.com
+请仔细检查邮箱地址后再继续。
+数据库
+数据库账号
+carbon_footprint
+密码
+687sMhm3JBie2KMa
+创建站点的同时，为站点创建一个对应的数据库帐户，方便不同站点使用不同数据库。
+
+用户：
+carbon_footprint_asia
+密码：
+nC1RNZWBGdStQ9jC
